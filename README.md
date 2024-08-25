@@ -21,7 +21,6 @@ The relational database that I am using is SQLite3, which is already included in
 
 The database has two tables, one named **tasks** and one named **types**. Tasks contains the task_id, task, year, month, day, and time. Types contains the type_id, and type. Using an **INNER JOIN**, I am able to do **SELECT** queries that use the type_id to get the type name, and display it to the user. The database is structured as shown below:
 
-![Entity Relationship Diagram](ERD.jpg)
 
 ## Development Environment
 
