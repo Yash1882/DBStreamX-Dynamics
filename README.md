@@ -1,6 +1,6 @@
 # SQL Database With Python
 
-This is my **SQL Database in Python Demo** software. I decided to make this demo to research, gain an understanding of, and showcase my understanding in using SQL in python to create a database and be able to access and modify it using queries. To do this, I created a planner that can store and modify data entered by the user.
+This is my **SQL Database in Python Demo** software. I decided to make this research to , gain an understanding of, and showcase my understanding in using SQL in python to create a database and be able to access and modify it using queries. To do this, I created a strategiX and nalysis-Engine that can store and modify data entered by the user.
 
 Some of the commands I use in the queries are:
 
@@ -14,7 +14,6 @@ Some of the commands I use in the queries are:
 * INNER JOIN
 * DATE (%m/%d/%Y)
 
-[Software Demo Video](http://youtu.be/P3rYR_V8G-s)
 
 ## Relational Database
 
@@ -33,15 +32,3 @@ I used Visual Studio Code with python to create this project, and used the built
 * Visual Studio Code
 * Python
 * SQLite3
-
-## Useful Websites
-
-* [SQLite Tutorial](http://www.sqlitetutorial.net/)
-* [Python Homepage](http://www.python.org/)
-* [W3 Schools](http://www.w3schools.com/sql/)
-
-## Future Work
-
-* Make program appear in a window
-* Add more items to be input so I can use more tables to help with practice
-* Create a new database that can work with a game
